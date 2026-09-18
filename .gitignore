@@ -1,5 +1,3 @@
 build/
 models/*.onnx
-*.jpg
-*.png
 .DS_Store
